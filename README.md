@@ -2,7 +2,7 @@
 
 <div>
 
-<p> </p
+<p>Script for copying files to a flash drive</p>
 
 </div>
 
