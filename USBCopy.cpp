@@ -5,6 +5,10 @@
 
 namespace fs = std::filesystem;
 
+/*
+@author Sma1lo
+*/
+
 void setConsoleColor(int textColor) {
     HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
     SetConsoleTextAttribute(hConsole, textColor);
